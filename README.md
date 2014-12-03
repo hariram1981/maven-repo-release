@@ -9,8 +9,8 @@ Jars
 1. Annotation
    - Group Id       - com.hariram
    - Artifact Id    - annotation
-   - Latest version - 0.7
-   - Gradle input   - compile("com.hariram:annotation:0.7")
+   - Latest version - 0.9
+   - Gradle input   - compile("com.hariram:annotation:0.9")
 
 2. Commonutil
    - Group Id       - com.hariram
@@ -39,15 +39,21 @@ Jars
 6. Log4J Annotation
    - Group Id       - com.hariram
    - Artifact Id    - log4jannotation
-   - Latest version - 0.1
-   - Gradle input   - compile("com.hariram:log4jannotation:0.1")
+   - Latest version - 0.3
+   - Gradle input   - compile("com.hariram:log4jannotation:0.3")
 
 7. Cache
    - Group Id       - com.hariram
    - Artifact Id    - cache
-   - Latest version - 1.0
-   - Gradle input   - compile("com.hariram:cache:1.0")
+   - Latest version - 1.1
+   - Gradle input   - compile("com.hariram:cache:1.1")
 
+8. Cache Annotation
+
+   - Group Id - com.hariram
+   - Artifact Id - cacheannotation
+   - Latest version - 0.2
+   - Gradle input - compile("com.hariram:cacheannotation:0.2")
 
 License
 ==========
