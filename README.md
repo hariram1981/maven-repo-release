@@ -52,8 +52,8 @@ Jars
 
    - Group Id - com.hariram
    - Artifact Id - cacheannotation
-   - Latest version - 0.2
-   - Gradle input - compile("com.hariram:cacheannotation:0.2")
+   - Latest version - 1.0
+   - Gradle input - compile("com.hariram:cacheannotation:1.0")
 
 License
 ==========
